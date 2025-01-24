@@ -17,7 +17,6 @@ C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\Expenses.RazorAssem
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\scopedcss\bundle\Expenses.styles.css
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\scopedcss\projectbundle\Expenses.bundle.scp.css
-C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\compressed\2rbkt0s4nz-b9sayid5wm.gz
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\compressed\g66add75u2-61n19gt1b8.gz
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\compressed\wr94fjrcod-xtxxf3hu2r.gz
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\compressed\dfkkler8up-bqjiyaj88i.gz
@@ -95,3 +94,18 @@ C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\refint\Expenses.dll
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\Expenses.pdb
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\Expenses.genruntimeconfig.cache
 C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\ref\Expenses.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\Expenses.sourcelink.json
+C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\compressed\2rbkt0s4nz-p7nbx1kxgt.gz
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\Expenses.csproj.AssemblyReference.cache
+C:\Users\Alexa\Desktop\NETProjects\Expenses\obj\Debug\net9.0\Expenses.csproj.Up2Date
